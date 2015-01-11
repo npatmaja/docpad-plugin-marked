@@ -14,6 +14,8 @@
 [![Wishlist browse button](https://img.shields.io/badge/wishlist-donate-yellow.svg)](http://amzn.com/w/2F8TXKSNAFG4V "Buy an item on our wishlist for us")
 
 <!-- /BADGES -->
+
+
 ## Forking Note
 This fork is to support [custom `Renderer` provided by Marked](https://github.com/chjj/marked#renderer) and heavily inspired from 
 [this issue](https://github.com/docpad/docpad-plugin-marked/issues/11). 

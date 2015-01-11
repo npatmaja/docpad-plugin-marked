@@ -10,7 +10,8 @@ build/
 components/
 bower_components/
 node_modules/
-out/
+# out/
+test/out
 
 # Private Files
 .env
